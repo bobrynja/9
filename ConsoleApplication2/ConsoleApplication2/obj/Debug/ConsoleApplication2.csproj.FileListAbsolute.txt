@@ -1,0 +1,5 @@
+E:\3 курс\практика\9 день\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\3 курс\практика\9 день\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\3 курс\практика\9 день\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\3 курс\практика\9 день\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\3 курс\практика\9 день\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
