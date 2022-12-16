@@ -1,0 +1,6 @@
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\3 курс\практика\9 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
